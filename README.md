@@ -8,6 +8,6 @@ Checks the files you've selected on your Mac (in Finder), and shows dimensions a
 - .sh: same stuff, but conveniently from the command line
 
 ### azialt.sh
-Azimuth and altitude are key things in creating [dynamic wallpapers for macOS](https://itnext.io/macos-mojave-wallpaper-iii-c747c30935c4).
-This script outputs data from suncalc.org in JSON format, so it can be used with [wallpapper](https://github.com/mczachurski/wallpapper/).
+*Azimuth* and *altitude* are two key things about our Sun when you want to create [dynamic wallpapers for macOS](https://itnext.io/macos-mojave-wallpaper-iii-c747c30935c4).
+This script reads data as offered by suncalc.org, and outputs it in JSON format. One is then able to relax, and hand the correctly formatted information over to [wallpapper](https://github.com/mczachurski/wallpapper/).
 
