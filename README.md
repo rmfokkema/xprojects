@@ -3,7 +3,7 @@
 Shell tricks and Apple scripts, slightly mixed up.
 
 ### Show image info
-Checks the files you've selected on your Mac (in Finder), and shows dimensions and dpi all selected images. If no useful selection, it will prompt you to select files.
+Checks the files you've selected on your Mac (in Finder), and shows dimensions and dpi for all selected images. If no images selected, you will be prompted to select files.
 - .scptd: official AppleScript
 - .sh: same stuff, but conveniently from the command line
 
